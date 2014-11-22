@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Ryan M'
 SITENAME = u'Tuckshop Coffee'
-SITEURL = ''
+SITEURL = 'andross.herokuapp.com'
 
 PATH = 'content'
 
