@@ -4,11 +4,12 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Ryan M'
 SITENAME = u'Tuckshop Coffee'
-SITEURL = 'andross.herokuapp.com'
+# SITEURL = 'https://tuckshop.coffee'
+SITEURL = 'https://andross.herokuapp.com'
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Pacific/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
