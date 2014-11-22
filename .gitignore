@@ -1,0 +1,8 @@
+output
+venv
+cache
+*.pyc
+*~
+.DS_Store
+.hg
+.Python
