@@ -5,11 +5,11 @@ from __future__ import unicode_literals
 AUTHOR = u'Ryan M'
 SITENAME = u'Tuckshop Coffee'
 # SITEURL = 'https://tuckshop.coffee'
-SITEURL = 'https://andross.herokuapp.com'
+SITEURL = 'localhost:8000'
 
 PATH = 'content'
 
-TIMEZONE = 'Pacific/Los_Angeles'
+TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
@@ -45,4 +45,4 @@ COVER_IMG_URL = 'images/banner.jpg'
 
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True

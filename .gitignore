@@ -5,3 +5,6 @@ cache
 .DS_Store
 .hg
 .Python
+output
+cache
+venv
